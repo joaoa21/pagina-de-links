@@ -1,6 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
-## Tecnologias
+<a href="#memo-licença">Licença</a>
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -9,10 +11,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## Projeto
+## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-## Licença
+## 📝 Licença
 
 Esse projeto está sob licença MIT.
