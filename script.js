@@ -15,3 +15,17 @@ function raf(time) {
 }
 
 requestAnimationFrame(raf)
+
+function toggleMode() {
+  const html = document.documentElement
+
+// NA LÓGIA DE PROGRAMAÇÃO
+//  if(html.classList.contains('light')) {
+//    html.classList.remove('light')
+//  } else {
+//    html.classList.add('light')
+//  }
+
+//RESUMIDO
+  html.classList.toggle('light')
+}
