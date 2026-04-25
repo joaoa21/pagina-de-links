@@ -134,7 +134,18 @@ body * {
 #profile p {
 	font-weight: 500;
 	line-height: 24px;
-	margin-top: 20px;
+	margin-top: 40px;
+}
+
+.meu-nome p {
+	font-size: 50px;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.meu-nome span {
+	font-size: 60px;
+	font-family: "Bebas Neue", sans-serif;
+	color: #00d4ff;
 }
 
 /* ============================================================
