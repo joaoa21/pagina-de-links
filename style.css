@@ -25,6 +25,10 @@
 	--switch-bg: url(./assets/sun.svg);
 }
 
+.disabled {
+	display: none;
+}
+
 body {
     background-image: var(--bg-url);
     background-repeat: no-repeat;
