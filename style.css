@@ -128,7 +128,9 @@ body * {
 }
 
 #profile img {
-	width: 140px;
+	width: 160px;
+	border-radius: 50%;
+  	object-fit: cover;
 }
 
 #profile p {
