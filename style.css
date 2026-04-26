@@ -223,6 +223,10 @@ body * {
 	justify-content: space-between;
 }
 
+.link-linha.baixo {
+	margin-top: 30px;
+}
+
 #linha {
     width: 60%;
     height: 1px;
@@ -255,6 +259,17 @@ ul li a {
 	-webkit-backdrop-filter: blur(4px);
 	font-weight: 500;
 	transition: all .5s;
+
+	&.tool {
+		flex-direction: column;
+
+		span {
+			font-size: 13px;
+			margin-top: 5px;
+			font-style: italic;
+			color: #7d7d7d;
+		}
+	}
 }
 
 ul li a:hover {
